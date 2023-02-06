@@ -1,0 +1,5 @@
+Require Import Coq.Strings.String.
+
+Definition hello_world : string := "Hello, World!".
+
+Print hello_world.
